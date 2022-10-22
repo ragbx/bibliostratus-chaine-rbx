@@ -1,0 +1,30 @@
+NumNotice	FRBNF	ARK	ISBN	EAN	N° commercial	ISSN	Titre	Auteur	Date	Tome-Volume	Editeur	Lieu de publication
+300860			978-2-414-03137-5	9782414031375			L'objet de mon affection	Louis Lucas	2017		Edilivre â Aparis	
+double denier parisis  3e type	Philippe	1328			
+	
+300381					Kaze		Sailor Moon - épisodes 20 à 28	Satō Jun'ichi;Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1992		Kaze	
+300382					Kaze		Sailor Moon - épisodes 29 à 38	Satō Jun'ichi;Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1992		Kaze	
+300383					Kaze		Sailor Moon - épisodes 39 à 46	Satō Jun'ichi;Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1992		Kaze	
+300384				5050582789003			L'année des Guignols 90-92 Tout à fait Thierry	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300385				5050582789003			L'année des Guignols 92-93 Le monsieur te demande   	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300386				5050582789003			L'année des Guignols 93-94 Putain  deux ans  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300387				5050582789003			L'année des Guignols 1994 Putain  deux ans  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300388				5050582789003			L'année des Guignols 1994 La combine à Nanard	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300389				5050582789003			L'année des Guignols 94-95 J'ai niqué Couille Molle  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300390				5050582789003			L'année des Guignols La fiction	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300391				5050582789003			L'année des Guignols - 98-99 On m'aurait menti    	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300392				5050582789003			L'année des Guignols - 97-98 Y'a paaas de méthode	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300393				5050582789003			L'année des Guignols - 1997 Putain  mais quel con  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300394				5050582789003			L'année des Guignols - 96-97 J'y arrive pas	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300395				5050582789003			L'année des Guignols - 96-97 Du cul  du cul  du cul  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300396				5050582789010			L'année des Guignols Putain 20 ans  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300397				5050582789010			L'année des Guignols - 2008-2009 Une année de beaux gosses	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300398				5050582789010			L'année des Guignols - 2007-2008 La France d'après	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300399				5050582789010			L'année des Guignols - 2006-2007 Pot de départ	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300400				5050582789010			L'année des Guignols - 2005-2006 Qu'est-ce t'as  t'es pas content  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300401				5050582789010			L'année des Guignols - 2004-2005 Goodbye Louis XVI  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300402				5050582789010			L'année des Guignols Un Jean-Pierre çà peut tout faire	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300403				5050582789010			L'année des Guignols Pardon aux familles    tout çà  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300404				5050582789010			L'année des Guignols Une ispice di counasse d'année   	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300405				5050582789010			L'année des Guignols - 2000-2001 Je peux dire une connerie  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France
+300406				5050582789010			L'année des Guignols - 1999-2000 Ras le bol les guignols  	Gaccio Bruno;Herzog Daniel;Canteloup Nicolas;Dutemple Lionel;Hamidi Ahmed;Lecoq Yves	2008		Studio Canal	France

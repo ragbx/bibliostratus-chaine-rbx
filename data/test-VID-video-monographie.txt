@@ -1,0 +1,82 @@
+Num Not	FRBNF	ARK	EAN	N° commercial	Titre	Auteur	Date	Editeur
+300368			3700091028514		Sailor Moon - épisodes 57 à 64	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1993	Kaze
+300369			3700091028514		Sailor Moon - épisodes 65 à 73	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1993	Kaze
+300370			3700091028514		Sailor Moon - épisodes 74 à 81	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1993	Kaze
+300371			3700091028514		Sailor Moon - épisodes 82 à 89	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1993	Kaze
+300372			3700091028903		Sailor Moon - épisodes 98 à 105	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1994	Kaze
+300373			3700091028903		Sailor Moon - épisodes 106 à 112	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1994	Kaze
+300374			3700091028903		Sailor Moon - épisodes 113 à 120	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1994	Kaze
+300375			3700091028903		Sailor Moon - épisodes 121 à 127	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1994	Kaze
+300376			3700091029016		Sailor Moon - épisodes 136 à 143	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1995	Kaze
+300377			3700091029016		Sailor Moon - épisodes 144 à 151	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1995	Kaze
+300378			3700091029016		Sailor Moon - épisodes 152 à 159	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1995	Kaze
+300379			3700091029016		Sailor Moon - épisodes 160 à 166	Ikuhara Kunihiko;Arisawa Takanori;Sugihara Megumi;Yanagawa Shigeru;Tomita Sukehiro	1995	Kaze
+300411			8717418363727		Chimpanzés	Linfield Mark;Fothergill Alastair;Hahn Don;Hooper Nicholas	2013	The Walt Disney Company
+300415			3341348375250		Comptines à chanter  danser et mimer   la mer		2014	Les Editions Eveil et Découvertes
+300416			3346030026366		C'est quoi l'idée   1	Kermel Tanguy de;Brenifier Oscar;Despres Jacques;Murrell Rachel;Payet-Pigeon Lionel	2013	Editions Montparnasse
+300417			5050582979145		Masha et Michka Première rencontre	Kuzovkov Oleg;Bogatyrev Vasily	2014	Universal Pictures Vidéo
+300421			8717418485146		Vaiana  la légende du bout du monde	Musker John;Clements Ron;Bush Jared;Mancina Mark;Miranda Lin-Manuel;Foa'I Opetaia;Aguilar Abraham;Arfaoui Salem;Bonilla Tony	2017	The Walt Disney Company
+300423			5053083045586		Shaun le mouton le film	Burton Mark;Starzak Richard;Park Nick;Starzak Richard;Snowden Alison;Fine David;Eshkeri Ilan	2015	Studio Canal vidéo
+300468			3346030026366		C'est quoi l'idée   2	Kermel Tanguy de;Brenifier Oscar;Despres Jacques;Murrell Rachel;Payet-Pigeon Lionel	2013	Editions Montparnasse
+300469			3700091022444		Le fil de l'araignée Figures infernales	Akutagawa Ryūnosuke;Miya Shigeyuki	2009	Kaze
+300470			3700091022482		Melos	Dazai Osamu	2009	Kaze
+300471			3700091022420		Sous les fleurs de la forêt de cerisiers	Sakaguchi Ango;Araki Tetsurô	2009	Kaze
+300472			3700091022420		La déchéance d'un homme	Dazai Osamu;Asaka Morio	2009	Kaze
+300473			3459379403122		Princesse Mononoké	Miyazaki Hayao;Hisaishi Jō	2014	Studio Ghibli
+300476			3453270026398		La cabane à histoires	Riviere Célia;Pico Pablo;Volsy Yan;Chicot Alexia;Estribaud Valois d';Lepoureau Juliane;Vahanian Yanis	2017	ARTE Editions
+300477			3607483220528		Ballerina	Summer Éric;Warin Eric;Noble Carol;Zeitoun Laurent;Badelt Klaus	2017	Gaumont
+300478			5053083103279		Tous en scène	Jennings Garth;Lourdelet Christophe;Talbot Joby	2017	Universal Pictures Vidéo
+300479			3660485993005		Amazonia	Ragobert Thierry;Bernard Johanne;Bolognesi Luiz;Desanges Louis-Paul;Marescot Luc;Coulais Bruno	2017	France Télévisions Distribution
+300481			3459379401340		Kuzco  l'empereur mégalo	Dindal Mark;Allers Roger;Jacobs Matthew;Reynolds (scé.) David;Debney John;Hartley David	2001	The Walt Disney Company
+300482			8717418132200		Les contes de Terremer	Miyazaki Goro;Le Guin Ursula K.;Niwa Keiko;Terajima Tamiya	2007	Studio Ghibli
+300484			3453270026657		Mon tonton ce tatoueur tatoué	Bengston Karla Von	2017	ARTE Editions
+300485			8717418175856		Oliver   Compagnie	Scribner George;Dickens Charles;Allers Roger;Cox Jim;Disney Timothy J;Mangold James;Manilow Barry;Redford J. A. C	2009	The Walt Disney Company
+300486			3453270026343		Les espiègles	Cimermanis Janis;Brinkmanis Maris;Lacis Evalds	2017	ARTE Editions
+300487			3453277209893		De la neige pour Noël	Sivertsen Rasmus A.;Simmonaes Haral Sommerin;Aukrust Kjell;Fallu Karsten;Haugen Knut Avenstroup;Gulliksen Jens Jonathan	2015	ARTE Editions
+300488			3453270026664		Les nouvelles aventures de Pat et Mat	Benes Marek	2017	ARTE Editions
+300489			3459379402149		1001 pattes	Lasseter John;Stanton Andrew;Mcenery Don;Shaw Bob;Newman Randy	2001	Disney - Pixar
+300490			3606323163360		Shrek le troisième	Miller Chris;Hui Raman;Adamson Andrew;Steig William;Price Jeffrey;Seaman Peter S.;Warner Aron;Gregson-Williams Harry	2011	DreamWorks Animation SKG
+300492			3333297202329		C'est pas sorcier - Objectif   terre propre  		2007	France Télévisions Distribution
+300493			3760132631639		Annecy Kids 2 11 films pour les enfants	Di leo Alois;Parisi Charlie;Chang Christina;Minchenok Polina;Li Yizhou;Van der put Digna;Henderson Ainslie;Borde Gaëtan;Lebourgeois Benjamin;Vandermeersch Claire;Veaux Alexandre;Yang Mengjing;Rembauville Julie;Bianco-Levrin Nicolas;Oja Anni;Perreten Marjolaine;Faucompret Hugo de;Lusbaronian Eva;Cherrier Caroline;Ravit Johan;Pilorget Arthus	2017	Chalet pointu
+300494			3459370440645		Les aventures de Bernard et Bianca	Reitherman Wolfgang;Stevens Art;Lounsbery John;Sharp Margery;Clemmons Larry;Anderson Ken;Butler Artie;Connors Carol;Fain Sammy	2009	The Walt Disney Company
+300497			5053083121242		Seuls	Moreau David;Vehlmann Fabien;Gazotti Bruno;Lesaffre Sofia;Bak Stéphane;Du Pac Jean-Stan;Scarfoglio Paul;Lockhart Kim;Doret Thomas	2017	Studio Canal vidéo
+300498			8717418253356		Alice au pays des merveilles	Burton Tim;Carroll Lewis;Woolverton Linda;Elfman Danny;Depp Johnny;Wasikowska Mia;Bonham-Carter Helena;Lucas Matt	2010	The Walt Disney Company
+300500			3607483230763		Un sac de billes	Duguay Christian;Joffo Joseph;Geismar Alexandra;Allouche Jonathan;Guichard Benoît;Amar Armand;Le Clech Dorian;Fleurial Baptiste;Bruel Patrick;Zylberstein Elsa;Campan Bernard;Adams Kev	2017	Gaumont
+300595			3259130235777		SAV des émissions Saison 2	Campos Christophe;Delaire Bertrand;Margot Quentin;Sy Omar;Testot Frédéric	2005	Studio Canal
+300597			5050582591842		SAV des émissions Saison 3	Campos Christophe;Delaire Bertrand;Margot Quentin;Sy Omar;Testot Frédéric	2005	Studio Canal
+300598			5050582779844		SAV des émissions Saison 4	Campos Christophe;Delaire Bertrand;Margot Quentin;Sy Omar;Testot Frédéric	2005	Studio Canal
+300599			5050582854060		SAV des émissions Saison 5	Campos Christophe;Delaire Bertrand;Margot Quentin;Sy Omar;Testot Frédéric	2005	Studio Canal
+300600			5050582873191		SAV des émissions Saison 6	Campos Christophe;Delaire Bertrand;Margot Quentin;Sy Omar;Testot Frédéric	2005	Studio Canal
+300601			3700447516214		Extraordinary tales	Poe Edgar Allan		
+300651			3760062470322		The tree of Life l'arbre de vie	Malick Terrence;Pitt Brad;Chastain Jessica;Penn Sean;Shaw Fiona;McCracken Hunter;Eppler Laramie	2011	EuropaCorp
+300652			3453277867246		Bonjour	Ozu Yasujirô;Satomi Ton;Noda Kôgo;Mayuzumi Toshirō;Ryu Chishu;Miyake Kuniko;Shidara Koji	2004	ARTE Editions
+300655			3333297195171		Terminator 3 - Le Soulèvement des machines	Mostow Jonathan;Brancato John;Ferris Michael;Sarafian Tedi;Beltrami Marco;Schwarzenegger Arnold;Stahl Nick;Danes Claire	2005	Sony Pictures Home Entertainment
+300657			3700259800594		Terminator	Cameron James;Hurd Gale Anne;Fiedel Brad;Schwarzenegger Arnold; Michael;Hamilton Linda	2003	MGM   United Artists
+300658			3259130236330		Riz amer	De Santis Giuseppe;Alvoro Corrado;Puccini Gianni;Lizzani Carlo;Petrassi Goffredo;Trovaioli Armando;Mangano Silvana;Gassman Vittorio;Vallone Raf		Studio Canal vidéo
+300659			3760020980030		Etre et devenir	Bellar Clara	2015	Pourquoi Pas Productions
+300661			3662207006161		Ces garçons qui venaient du Brésil	Schaffner Franklin J.;Levin Ira;Gould Heywood;Goldsmith Jerry;Peck Gregory;Olivier Laurence;Mason James;Palmer Lili;Hagen Uta	2014	Filmedia
+300662			3388330049287		Retour chez ma mère	Lavaine Éric;Cahen Fabien;Balasko Josiane;Lamy Alexandra;Seigner Mathilde;Lefebvre (1968-...) Philippe;Commandeur Jérôme;Rebboah Cécile	2016	Pathé
+300663			3700782601583		Une mère	Carriere Christine;Arnold Pascal;Neveux Eric;Seigner Mathilde;Mottet Klein Kacey;Favino Pierfrancesco;Dewaels Salomé;Hernout Fiona;Cleve Jenny	2015	Blaq out
+300664			3607483184707		Paulette	Enrico Jérôme;Olsen Bianca;Aubanel Laurie;Ochowiak Michel;Lafont Bernadette;Maura Carmen;Lavanant Dominique	2013	Gaumont
+300665			3700447514906		Fleur du désert	Hormann Sherry;Dirie Waris;Todsharow Martin;Kebede Liya;Hawkins Sally;Spall Timothy;Parkinson Craig;Syal Meera	2010	Bac Films
+300666			3700301037121		Cheba Louisa	Charpiat Françoise;Hamidat Mariem;Brakni Rachida;Carré Isabelle;Biyouna;Weber Stanley;Arezki Mhamed;Belal Baya;La Boulaye Agathe de	2013	Wild side video
+300667			3700447516436		Vendeur	Desclous Sylvain;Lorelle Olivier;Chabauty Amaury;Melki Gilbert;Marmaï Pio;Elso Pascal;Poidatz Clémentine;Giraudeau Sara;Bonnard Damien	2016	Bac Films
+300669			5053083077655		L'homme qui valait trois milliards	Johnson Kenneth;Nelson Oliver;Majors Lee;Anderson Richard;Darling Jennifer;Oppenheimer Alan;Wagner Lindsay;Fawcett Farrah	2016	Universal Pictures Vidéo
+300670			3700301050786		L'histoire de l'amour	Mihaileanu Radu;Krauss Nicole;Amar Armand;Jacobi Derek;Nélisse Sophie;Arterton Gemma;Gould Elliott;Higginson Torri;Ozerov Alex	2017	Wild side video
+300680			3760126930021		Ch'guss  d'hier et d'aujourd'hui	Ch'Guss		
+300681	frbnf411937380000000	http://catalogue.bnf.fr/ark:/12148/cb411937380	5099950073399	EMI classics 094633149090	Ecce cor meum	Shepherd Jason;Royal Kate;Greenaway Gavin;London voices	2008	EMI music France  éd   distrib  
+300985			3344428067885		Homeland	Linka Glatter Leslie;Johnson Clark;Franklin Carl;Gansa Alex;Johannessen Chip;Cary Alexander;Callery Sean;Danes Claire;Patinkin Mandy;Friend Rupert;Letts Tracy;Abraham Fred Murray;Boniadi Nazanin	2017	20th Century Fox
+300986			5053083129255		The good Wife	Zinberg Michael;King Robert;Rodriguez Rosemary;King Michelle;Lux Danny;Buckley David;Margulies Julianna;Czuchry Matt;Panjabi Archie;Baranski Christine;Charles Josh;Cumming Alan	2017	CBS
+300987			3333297301824		Preacher	Goldberg Evan;Winant Scott;Rogen Seth;Catlin Sam;Rosenberg Craig;Laws Mary;Cooper Dominic;Gilgun Joseph;Negga Ruth;Griffiths Lucy;Brown W. Earl;Brooke Tom	2016	Sony Pictures Home Entertainment
+300988			5051888228098		Riverdale	Krieger Lee Toland;Adelson Steven A.;Anders Allison;Aguirre-Sacasa Roberto;Neely Blake;Apa K.J.;Reinhart Lili;Mendes Camila;Sprouse Cole;Nichols Marisol;Perry Luke	2017	Warner Bros 
+300989			5051889597308		Big little lies	Vallée Jean-Marc;Kelley David E.;Witherspoon Reese;Kidman Nicole;Woodley Shailene;Skarsgard Alexander;Scott Adam;Kravitz Zoë	2017	Home Box Office
+300990			3545020045473		Brokenwood	Smith Mike;Dalkin Philip;Haines Joël;Rea Neill;Sutherland Fern;Hema Taylor Pana;Pritchard Marc;Sherwood Chris;Edward Mike	2017	Showshank Films
+300991			3700246907824		Au-delà des murs	Hadmar Hervé;Herpoux Marc;Chanteux Sylvie;Demarsan Éric;Chaplin Geraldine;Baetens Veerle;Deblock François;Gilberti Lilas-Rose;Siatidis Georges;Baert Clémentine	2017	Doriane Films
+300992			5053083129088		American Gods	Slade David;Zobel Craig;Natali Vincenzo;Kane Adam;Sigismondi Floria;Fuller Bryan;Green Michael;Reitzell Brian;Whittle Ricky;Browning Emily;Glover Crispin;Langley Bruce;Badaki Yetide;Schreiber Pablo	2017	Studio Canal vidéo
+300993			5051889613220		On l'appelle Jeeg Robot	Mainetti Gabriele;Guaglianone Nicola;Menotti;Braga Michele;Santamaria Claudio;Marinelli Luca;Pastorelli Ilenia;Ambrogi Stefano;Tesei Maurizio;Formichetti Francesco	2017	AB Vidéo
+300994			3760189611394		Jours de France	Reybaud Jérôme;Cervo Pascal;Igual Arthur;Babe Fabienne;Belin-Ridwan Nathalie;Dosch Laetitia;Montevecchi Liliane	2017	KMBO Films
+300995			3475001052537		Le procès du siècle	Jackson Mick;Lipstadt Deborah;Hare David;Shore Howard;Weisz Rachel;Wilkinson Tom;Spall Timothy;Scott Andrew;Lowden Jack;Pistorius Caren	2017	M6 vidéo
+300996			5051888221662		Braquage à l'ancienne	Braff Zach;Cannon Edward;Melfi Theodore;Simonsen Rob;Freeman Morgan;Caine Michael;Arkin Alan;Ann-Margret;King Joey;Dillon Matt	2017	Warner Bros 
+300997			3344428069742		Alien   Covenant	Scott Ridley;O'Bannon Dan;Logan John;Harper Dante;Kurzel Jed;Fassbender Michael;Waterston Katherine;Crudup Billy;Mcbride Danny;Bichir Demián;Ejogo Carmen	2017	20th Century Fox
+300999			3333297305570		Sage femme	Provost Martin;Hetzel Grégoire;Frot Catherine;Deneuve Catherine;Gourmet Olivier;Demongeot Mylène;Dolmaire Quentin;Étienne Pauline	2017	France Télévisions Distribution
+301000			5053083127480		Problemos	Judor Éric;Debré Noé;Gardin Blanche;Bource Ludovic;Hajdi Youssef;Rosich Célia;Helmer Marie;Nabokov Michel	2017	Studio Canal vidéo

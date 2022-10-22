@@ -1,5 +1,0 @@
-Num Not	FRBNF	ARK	ISBN	EAN	Titre	Auteur	Date	Editeur	Echelle
-300050	frbnf453580420000006	http://catalogue.bnf.fr/ark:/12148/cb45358042k	978-2-2151-5566-9	9782215155669	10 grandes routes de l'histoire	Feiner Imre;Stefano Laurent	2017	Fleurus	[Échelles diverses]
-300566	frbnf453409540000006	http://catalogue.bnf.fr/ark:/12148/cb45340954x	978-2-746-74541-4	9782746745414	Atlas politique de la France les révolutions silencieuses de la société française	Lévy Jacques;Autrement	2017	Éditions Autrement	[Échelles diverses]
-300796	frbnf453325730000005	http://catalogue.bnf.fr/ark:/12148/cb45332573c	978-2-7514-0896-0	9782751408960	Sentier vers Saint-Jacques-de-Compostelle via Le Puy   Moissac - Roncevaux	Institut national de l'information géographique et forestière;Fédération française de la randonnée pédestre	2017	FFRandonnée	50000
-300884	frbnf452765900000006	http://catalogue.bnf.fr/ark:/12148/cb45276590k	978-2-7530-3982-7	9782753039827	Atlas des saveurs	Sillani Febe;Malerba Giulia	2016	Piccolia	[Échelle non déterminable]

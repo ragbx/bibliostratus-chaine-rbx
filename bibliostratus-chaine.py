@@ -9,5 +9,5 @@ bbs_path = "../bibliostratus"
 #bibliostratus-cli.py: error: the following arguments are required: --file
 
 file_in = "data/koha.mrc" #"data/2022-10-16-notices_total.mrc"
-command = f"python {bbs_path}/bibliostratus/bibliostratus-cli.py --action marc2tables --file {file_in} --dir data --prefix test --filetype iso2709-utf8 --recordtype bib"
+command = f"python {bbs_path}/bibliostratus/cli.py --action marc2tables --file {file_in} --dir data --prefix test --filetype iso2709-utf8 --recordtype bib"
 os.system(command)

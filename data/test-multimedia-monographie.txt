@@ -1,7 +1,0 @@
-NumNotice	FRBNF	ARK	ISBN	EAN	N° commercial	ISSN	Titre	Auteur	Date	Tome-Volume	Editeur	Lieu de publication
-300093	frbnf453063410000008	http://catalogue.bnf.fr/ark:/12148/cb45306341j	979-10-90398-68-9	9791090398689			Créer   jouer avec les enfants	Armelle Balduzzi, Claire Deleurme, Christelle Bouvry... [et al.]	2017	Tome 2	Éditions Philippe Duval	Savigny-sur-Orge (Essonne)
-300130	frbnf43705494000000x	http://catalogue.bnf.fr/ark:/12148/cb43705494k	978-2-215-10844-3	9782215108443			De Bonaparte à Napoléon	Pernot François	2013		Fleurus éditions	Paris
-300766	frbnf443762270000007	http://catalogue.bnf.fr/ark:/12148/cb443762271	978-2-35204-394-2	9782352043942			Respirez la méditation pour les parents et les ados	Snel Eline;Van Rillaer Jacques;Jansen Henk;Jarrie Martin;Michelot Soizic	2015		les Arènes	Paris
-300898	frbnf454619350000005	http://catalogue.bnf.fr/ark:/12148/cb45461935g	979-10-94193-03-7;979-10-94193-07-5	9791094193037;9791094193075			Yemaya	Chotard Frédéric;Chotard Caroline;Guéry Laura;Aubert Allison	2015		Caza Musique	
-300904	frbnf438093460000008	http://catalogue.bnf.fr/ark:/12148/cb43809346k;http://catalogue.bnf.fr/ark:/12148/cb43809346k	978-2-215-10816-0	9782215108160			Le football	Billioud Jean-Michel	2014		Fleurus	Paris
-300915	frbnf413786710000000	http://catalogue.bnf.fr/ark:/12148/cb41378671p	978-2-07-062088-3	9782070620883			La musique des gitans le petit cheval d'étoiles	Fontanel Béatrice;Gastaut Charlotte;Robin Thierry;Diab Jean	2008		Gallimard jeunesse musique	[Paris]
